@@ -1,7 +1,8 @@
 # Sistema de Monitoramento da Qualidade do Ar em Pontos de Ônibus
 
 **Universidade Presbiteriana Mackenzie — Faculdade de Computação e Informática**  
-Autores: Sidney Quiota Alonso, André Luis de Oliveira, Leandro Carlos Fernandes  
+Autor: Sidney Quiota Alonso
+Professores: André Luis de Oliveira, Leandro Carlos Fernandes  
 Ano: 2026
 
 ---
