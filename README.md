@@ -95,8 +95,21 @@ Para visualizar as mensagens em tempo real, acesse o [HiveMQ Websocket Client](h
 ## Referências
 
 - ESPRESSIF SYSTEMS. ESP32-DevKitC User Guide. Disponível em: https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/user_guide.html
+
 - OASIS. MQTT Version 3.1.1. Disponível em: https://www.oasis-open.org/standard/mqttv3-1-1/
+
 - WINSEN. MQ-135 Gas Sensor Manual. Disponível em: https://www.winsen-sensor.com/d/files/PDF/Semiconductor%20Gas%20Sensor/MQ135%20%28Ver1.4%29%20-%20Manual.pdf
-- KNOLLEARY. PubSubClient. Disponível em: https://pubsubclient.knolleary.net/
+
+- DFROBOT. Relay Module Wiki. Disponível em: https://wiki.dfrobot.com/dfr0473/
+
+- KNOLLEARY, Nick. PubSubClient. Disponível em: https://pubsubclient.knolleary.net/
+
 - HIVEMQ. Public MQTT Broker. Disponível em: https://www.hivemq.com/public-mqtt-broker/
+
 - WOKWI. Online Arduino and ESP32 Simulator. Disponível em: https://wokwi.com/
+
+- NAKAMURA, E. F. et al. Smart CEI Moncloa: An IoT-based Platform for People Flow and Environmental Monitoring on a Smart University Campus. Disponível em: https://doi.org/10.3390/s17122856
+
+- RAMIREZ, H. et al. Voice-Controlled Autonomous Vehicle Using IoT. Disponível em: https://doi.org/10.1016/j.procs.2019.11.022
+
+- MEHMOOD, A. et al. An IoT based Active Building Surveillance System using Raspberry Pi and NodeMCU. Disponível em: https://arxiv.org/ftp/arxiv/papers/2001/2001.11340.pdf
