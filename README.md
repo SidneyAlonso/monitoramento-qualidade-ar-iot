@@ -2,7 +2,7 @@
 
 **Universidade Presbiteriana Mackenzie — Faculdade de Computação e Informática**  
 Autor: Sidney Quiota Alonso
-Professores: André Luis de Oliveira, Leandro Carlos Fernandes  
+Orientadores: André Luis de Oliveira, Leandro Carlos Fernandes  
 Ano: 2026
 
 ---
